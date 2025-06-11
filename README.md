@@ -1,3 +1,3 @@
 # odin-recipes
 
-Basic website for an assignment in odin project using html.
+Basic website for an assignment in odin project using html and css.
